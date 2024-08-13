@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-ecs-event-history
+friendly_name: ECS Event History
+description: Configures an ECS cluster to send ECS events to a Cloudwatch log group.
+category: block
+subcategory: ""
+provider_types:
+    - aws
+platform: ecs
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
